@@ -22,7 +22,7 @@
 
 
 
-## 🌐 How to reach me 
+## 🌐 How to reach me :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anishdhomase/) 
 [![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=Gmail&logoColor=white)](https://gmail.com/anishdhomase) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/IamAnishDhomase) 
@@ -31,7 +31,7 @@
 
 
 
-## 🧑‍💻 Tech Stack
+## 🧑‍💻 Tech Stack :
 ### Programming languages
 <p align="center"> 
   &emsp; 
@@ -183,7 +183,7 @@
 <!-- </details> -->
 
 
-### 📂 My Repositories
+### 📂 Top Repositories and Project Demos :
 <details><summary><h3></h3></summary>
 
 <div>
