@@ -70,10 +70,11 @@
   <a href="" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
-  <!-- <a href="" target="_blank">
+  &emsp;
+  <a href="" target="_blank">
     <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
   </a>
-  &emsp; -->
+  &emsp;
 </p>
 
 ### Software & Tools
