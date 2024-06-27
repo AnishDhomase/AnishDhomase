@@ -1,12 +1,12 @@
 <h1 align="center">Hi , I'm Anish Dhomase <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## 🌞 About me :
-- 🎓 I am a Sophomore at [IIIT BHOPAL](https://iiitbhopal.ac.in/#!/) 
-- 🌱 I'm currently learning Frontend Web Developement and Data Structures and Algorithm
-- 🗣️ Ask me about JavaScript, CPP and Front-end
+- 🎓 I am a 3rd year student at [IIIT BHOPAL](https://iiitbhopal.ac.in/#!/) 
+- 🌱 I'm currently learning Web Developement and Data Structures and Algorithm
+- 🗣️ Ask me about JavaScript, CPP and ReactJS
 - 🤝 I’m looking to collaborate on Web Developement projects
 - 📧 How to reach me anishdhomase@gmail.com
-- ⚡ Fun fact: I love Drawing, Sketching and Painting!
+- ⚡ Secret: I love Drawing, Sketching and Painting!
 <br><br>
 
 
