@@ -1,13 +1,12 @@
-![Design and Development]()
-<h1 align="center">Hi , I'm Anish Dhomase <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+![Design and Development](https://github.com/AnishDhomase/AnishDhomase/blob/main/banner_github_withtext.png)
+<h1 align="center">Hi, I'm Anish Dhomase <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## 🌞 About me :
-- 🎓 I am a 3rd year student at [IIIT BHOPAL](https://iiitbhopal.ac.in/#!/) 
-- 🌱 I'm currently learning Web Developement and Data Structures and Algorithm
-- 🗣️ Ask me about JavaScript, CPP and ReactJS
-- 🤝 I’m looking to collaborate on Web Developement projects
-- 📧 How to reach me anishdhomase@gmail.com
-- ⚡ Secret: I love Drawing, Sketching and Painting!
+I'm a passionate pre-final year Computer Science Engineering student at IIIT Bhopal with a CGPA of 8.40. I am currently working as Frontend Development Intern at Zorway Technologies LLP. Previously I served as an Associate Web Development Lead at the Google Developer Student Club, promoting a supportive learning atmosphere among 500+ peer developers. I am experienced in crafting web applications and proficient in various development tools. Skilled in Data Structures and Algorithms (DSA) and solved over 450 questions on LeetCode, attaining a maximum contest rating of 1628. I am actively seeking internship opportunities in the web development field to further enhance my skills and contribute to innovative projects.
+
+🎓 I am a 3rd year student at [IIIT BHOPAL](https://iiitbhopal.ac.in/#!/) <br>
+🌱 I'm currently learning Web Developement and Data Structures and Algorithm <br>
+🗣️ Ask me about JavaScript, CPP and ReactJS <br>
+📧 Contact me at anishdhomase@gmail.com
 <br><br>
 
 
@@ -27,7 +26,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anishdhomase/) 
 [![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=Gmail&logoColor=white)](https://gmail.com/anishdhomase) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/IamAnishDhomase) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anishdhomase) 
+
 <br><br>
 
 
