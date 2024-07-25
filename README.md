@@ -75,7 +75,9 @@ I'm a passionate pre-final year Computer Science Engineering student at IIIT Bho
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anishdhomase&" alt="anishdhomase" /></p>
 <br><br>
 
-### 📂 Top Projects
+### 
+<details><summary><h3>📂 Top Projects</h3></summary>
+-------
 <p align="center">
  
 <div width="200" align="center">
@@ -97,8 +99,6 @@ I'm a passionate pre-final year Computer Science Engineering student at IIIT Bho
 <img src="https://github.com/AnishDhomase/AnishDhomase/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp.gif" width="200"/>
 </div>
 <br><br>
- 
-</div>
+</p>
+</details>
 
-
-</br></br>
