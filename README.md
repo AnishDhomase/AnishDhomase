@@ -7,7 +7,7 @@ I'm a passionate pre-final year Computer Science Engineering student at IIIT Bho
 🌱 I'm currently learning Web Development and Data Structures and Algorithms <br>
 🗣️ Ask me about JavaScript, CPP, and ReactJS <br>
 📧 Contact me at anishdhomase@gmail.com
-<br><br>
+<br><be><br>
 
 
 
@@ -75,7 +75,8 @@ I'm a passionate pre-final year Computer Science Engineering student at IIIT Bho
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anishdhomase&" alt="anishdhomase" /></p>
 <br><br>
 
-### 
+
+<div>
 <details><summary><h3>📂 Top Projects</h3></summary>
 -------
 <p align="center">
@@ -101,4 +102,5 @@ I'm a passionate pre-final year Computer Science Engineering student at IIIT Bho
 <br><br>
 </p>
 </details>
+</div>
 
