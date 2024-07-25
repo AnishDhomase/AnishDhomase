@@ -10,19 +10,16 @@ I'm a passionate pre-final year Computer Science Engineering student at IIIT Bho
 
 
 
-## 🌐 How to reach me :
+## 🌐 How to reach me
 <p align="left">
 <a href="https://twitter.com/iamanishdhomase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamanishdhomase" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anishdhomase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anishdhomase" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anishdhomase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anishdhomase" height="30" width="40" /></a>
 </p>
-
-
 <br><br>
 
 
-
-## 🧑‍💻 Tech Stack :
+## 🧑‍💻 Tech Stack
 ### Programming languages
 <!-- [![My Skills](https://skillicons.dev/icons?i=cpp,py,c&theme=light)](https://skillicons.dev) -->
 <p>
@@ -68,13 +65,14 @@ I'm a passionate pre-final year Computer Science Engineering student at IIIT Bho
  
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
+<br><br>
  
 <!-- [![My Skills](https://skillicons.dev/icons?i=git,github,netlify,vite,npm,vscode,figma&theme=light)](https://skillicons.dev) -->
 
-## Github Stats
+## ⚡Github Stats
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishdhomase&label=Profile%20views&color=0e75b6&style=flat" alt="anishdhomase" /> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anishdhomase&" alt="anishdhomase" /></p>
- 
+<br><br>
 
 ### 📂 Top Repositories and Project Demos :
 <details><summary><h3></h3></summary>
