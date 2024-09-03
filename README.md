@@ -1,10 +1,22 @@
 
 ![Design and Development](https://github.com/AnishDhomase/AnishDhomase/blob/main/banner_github_withtext.png)
+<br><br>
+<b>▶️ Introduction:</b> <br>
+➖ I'm a passionate 3rd year undergraduate student pursuing CSE @ IIIT Bhopal having a CGPA of 8.40. <br>
+<br>
+<b>▶️ Professional Experience:</b> <br>
+➖ I've worked in the field of Software Development @ Zorway Technologies LLP as a Frontend Development Intern. This experience enabled me to work with systems at scale and contribute to them. <br>
+➖ I was Associate Web Development Lead at Google Developer Student Club for the session (2023-2024) <br>
+<br>
+<b>▶️ Skills:</b> <br>
+➖ I'm a team player and have worked on personal projects across multiple domains such as Fullstack Web Development, Devops, Building Algorithms and Software Development. <br>
+➖ I love problem solving and I'm strong with DSA and various mathematical concepts allowing me to tackle complex real world problems. I've solved 490+ questions on LeetCode, attaining a maximum contest rating of 1628. <br>
+<br>
 
-I'm a passionate pre-final year Computer Science Engineering student at IIIT Bhopal with a CGPA of 8.40. I was recently working as a Frontend Development Intern at Zorway Technologies LLP. Previously I served as an Associate Web Development Lead at the Google Developer Student Club, promoting a supportive learning atmosphere among 500+ peer developers. I am experienced in crafting web applications and proficient in various development tools. Skilled in Data Structures and Algorithms (DSA) and solved over 450 questions on LeetCode, attaining a maximum contest rating of 1628. I am actively seeking internship opportunities in the web development field to further enhance my skills and contribute to innovative projects.
+<b>▶️ Inspiration:</b> <br>
+➖ Driven by a curiosity to understand real world projects and the inner workings of technology, I'm actively seeking internship opportunities in the Software Development field. <br>
+<br>
 
-🎓 I am a 3rd year student at [IIIT BHOPAL](https://iiitbhopal.ac.in/#!/) <br>
-⚡ I have good knowledge of Full-Stack Web Development
 📧 Contact me at anishdhomase@gmail.com
 <br><br><br>
 
