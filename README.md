@@ -4,10 +4,9 @@
 I'm a passionate pre-final year Computer Science Engineering student at IIIT Bhopal with a CGPA of 8.40. I was recently working as a Frontend Development Intern at Zorway Technologies LLP. Previously I served as an Associate Web Development Lead at the Google Developer Student Club, promoting a supportive learning atmosphere among 500+ peer developers. I am experienced in crafting web applications and proficient in various development tools. Skilled in Data Structures and Algorithms (DSA) and solved over 450 questions on LeetCode, attaining a maximum contest rating of 1628. I am actively seeking internship opportunities in the web development field to further enhance my skills and contribute to innovative projects.
 
 🎓 I am a 3rd year student at [IIIT BHOPAL](https://iiitbhopal.ac.in/#!/) <br>
-🌱 I'm currently learning Web Development and Data Structures and Algorithms <br>
-🗣️ Ask me about JavaScript, CPP, and ReactJS <br>
+⚡ I have good knowledge of Full-Stack Web Development
 📧 Contact me at anishdhomase@gmail.com
-<br><be><br>
+<br><br><br>
 
 
 
@@ -105,8 +104,16 @@ I'm a passionate pre-final year Computer Science Engineering student at IIIT Bho
 <!-- [![My Skills](https://skillicons.dev/icons?i=git,github,netlify,vite,npm,vscode,figma&theme=light)](https://skillicons.dev) -->
 
 ## ⚡Github Stats
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anishdhomase&label=Profile%20views&color=0e75b6&style=flat" alt="anishdhomase" /> </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anishdhomase&" alt="anishdhomase" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=anishdhomase&label=Profile%20views&color=0e75b6&style=flat" alt="anishdhomase" /> </p>
+<!-- <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anishdhomase&" alt="anishdhomase" /></p> -->
+<p align="center">
+    <img align="center" src="https://streak-stats.demolab.com?user=anishdhomase&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</p>
+<div align="center">
+  <p>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnishDhomase&theme=react-dark&hide_border=true" alt="AnishDhomase" />
+  </p>
+ </div> 
 <br><br>
 
 
