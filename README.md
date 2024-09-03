@@ -11,7 +11,7 @@
 <b>▶️ Skills:</b> <br>
 ➖ I'm a team player and have worked on personal projects across multiple domains such as Fullstack Web Development, Devops, Building Algorithms and Software Development. <br>
 ➖ I love problem solving and I'm strong with DSA and various mathematical concepts allowing me to tackle complex real world problems. I've solved 490+ questions on LeetCode, attaining a maximum contest rating of 1628. <br>
-<br>
+
 
 <b>▶️ Inspiration:</b> <br>
 ➖ Driven by a curiosity to understand real world projects and the inner workings of technology, I'm actively seeking internship opportunities in the Software Development field. <br>
