@@ -17,7 +17,7 @@
 ➖ Driven by a curiosity to understand real world projects and the inner workings of technology, I'm actively seeking internship opportunities in the Software Development field. <br>
 <br>
 
-📧 Contact me at anishdhomase@gmail.com
+📩 Contact me at anishdhomase@gmail.com
 <br><br><br>
 
 
