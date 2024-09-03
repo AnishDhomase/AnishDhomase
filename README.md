@@ -28,11 +28,7 @@ I'm a passionate pre-final year Computer Science Engineering student at IIIT Bho
  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> 
 </p>
 
-### Web Development
-<!-- [![My Skills](https://skillicons.dev/icons?i=js,react,redux,materialui,styledcomponents,css,html,supabase&theme=light)](https://skillicons.dev) -->
-<p>
- 
-</p>
+
 
 ### Frontend Web Development
 <p>
