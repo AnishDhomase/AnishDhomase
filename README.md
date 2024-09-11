@@ -36,8 +36,10 @@
 <!-- [![My Skills](https://skillicons.dev/icons?i=cpp,py,c&theme=light)](https://skillicons.dev) -->
 <p>
  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> 
- <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> 
+ <img src="https://img.shields.io/badge/python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> 
 </p>
 
 
@@ -45,7 +47,6 @@
 ### Frontend Web Development
 <p>
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white" /> 
  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> 
@@ -117,6 +118,7 @@
 <p align="center">
     <img align="center" src="https://streak-stats.demolab.com?user=anishdhomase&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </p>
+
 <div align="center">
   <p>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnishDhomase&theme=react-dark&hide_border=true" alt="AnishDhomase" />
