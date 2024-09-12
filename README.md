@@ -25,8 +25,8 @@
 ## 🌐 How to reach me
 <p align="left">
 <a href="https://linkedin.com/in/anishdhomase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anishdhomase" height="30" width="40" /></a>
-<a href="https://twitter.com/iamanishdhomase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamanishdhomase" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anishdhomase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anishdhomase" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/iamanishdhomase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamanishdhomase" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/anishdhomase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anishdhomase" height="30" width="40" /></a> -->
 </p>
 <br><br>
 
@@ -115,10 +115,15 @@
 ## ⚡Github Stats
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anishdhomase&label=Profile%20views&color=0e75b6&style=flat" alt="anishdhomase" /> </p>
 <!-- <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anishdhomase&" alt="anishdhomase" /></p> -->
+<br>
+<!-- <p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishDhomase&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="AnishDhomase" />
+</p>
+<br> -->
 <p align="center">
     <img align="center" src="https://streak-stats.demolab.com?user=anishdhomase&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </p>
-
+<br>
 <div align="center">
   <p>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnishDhomase&theme=react-dark&hide_border=true" alt="AnishDhomase" />
@@ -128,7 +133,7 @@
 
 
 <div>
-<details><summary><h3>📂 Top Projects</h3></summary>
+<!-- <details><summary><h3>📂 Top Projects</h3></summary>
 -------
 <p align="center">
  
@@ -152,6 +157,6 @@
 </div>
 <br><br>
 </p>
-</details>
+</details> -->
 </div>
 
