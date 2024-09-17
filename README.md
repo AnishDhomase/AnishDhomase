@@ -5,7 +5,7 @@
 ➖ I'm a passionate 3rd year undergraduate student pursuing CSE @ IIIT Bhopal having a CGPA of 8.40. <br>
 <br>
 <b>▶️ Professional Experience:</b> <br>
-➖ I've worked in the field of Software Development @ Zorway Technologies LLP as a Frontend Development Intern. This experience enabled me to work with systems at scale and contribute to them. <br>
+➖ I've worked in the field of Software Development @ Zorway Technologies LLP as a Frontend Developer. This experience enabled me to work with systems at scale and contribute to them. <br>
 ➖ I was Associate Web Development Lead at Google Developer Student Club for the session (2023-2024) <br>
 <br>
 <b>▶️ Skills:</b> <br>
