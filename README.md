@@ -1,5 +1,5 @@
 
-![Design and Development](https://github.com/AnishDhomase/AnishDhomase/blob/main/banner_github_withtext.png)
+![Design and Development](https://github.com/AnishDhomase/AnishDhomase/blob/main/in_banner_quote_center.png)
 <br><br>
 <b>▶️ Introduction:</b> <br>
 ➖ I'm a passionate 3rd year undergraduate student pursuing CSE @ IIIT Bhopal having a CGPA of 8.40. <br>
