@@ -2,19 +2,17 @@
 ![Design and Development](https://github.com/AnishDhomase/AnishDhomase/blob/main/in_banner_right_quote.png)
 <br><br>
 <b>▶️ Introduction:</b> <br>
-➖ I'm a passionate 3rd year undergraduate student pursuing CSE @ IIIT Bhopal having a CGPA of 8.40. <br>
+➖ I'm a passionate final year student pursuing B.Tech CSE @ IIIT Bhopal. <br>
+➖ I was Web Development Co-Lead at Google Developer Students Club for the session (2023-2024) <br>
 <br>
-<b>▶️ Professional Experience:</b> <br>
-➖ I've worked in the field of Software Development @ Zorway Technologies LLP as a Frontend Developer. This experience enabled me to work with systems at scale and contribute to them. <br>
-➖ I was Associate Web Development Lead at Google Developer Student Club for the session (2023-2024) <br>
-<br>
+
 <b>▶️ Skills:</b> <br>
 ➖ I'm a team player and have worked on personal projects across multiple domains such as Fullstack Web Development, Devops, Building Algorithms and Software Development. <br>
-➖ I love problem solving and I'm strong with DSA and various mathematical concepts allowing me to tackle complex real world problems. I've solved 490+ questions on LeetCode, attaining a maximum contest rating of 1628. <br>
-
+➖ I love problem solving and I'm strong with DSA and various mathematical concepts allowing me to tackle complex real world problems. I've solved 700+ questions on LeetCode, attaining a maximum contest rating of 1700+. <br>
+<br>
 
 <b>▶️ Inspiration:</b> <br>
-➖ Driven by a curiosity to understand real world projects and the inner workings of technology, I'm actively seeking internship opportunities in the Software Development field. <br>
+➖ Driven by a curiosity to understand real world projects and the inner workings of technology in the Software Development field. <br>
 <br>
 
 📩 Contact me at anishdhomase@gmail.com
